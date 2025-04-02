@@ -107,4 +107,4 @@
 <a href="https://t.me/THUNDERDEVS"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ɪsᴛᴋʜᴀʀ](https://github.com/TEAM-ISTKHAR) ғᴏʀ [ɪsᴛᴋʜᴀʀ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/THUNDERDEVS)_</b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ badnam](https://github.com/Badnam019) ғᴏʀ [badnam ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/YASH_ABOUT_XD_lll)_</b>
