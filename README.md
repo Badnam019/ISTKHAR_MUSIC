@@ -1,11 +1,12 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「⛦🦋 𝗜𝗦𝗧𝗞𝗛𝗔𝗥 ✘ 𝗠𝗨𝗦𝗜𝗖 🦋⛦」──
+    ──「⛦🦋 
+˹𝙎𝞪𝞰𝞪𝞽𝞪𝞰𝞲 ✗ 𝙈𝙪𝙨𝙞𝙘 🦋⛦」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/d02b81736a7e9519c6386.jpg">
+  <img src="https://files.catbox.moe/nr1my9.jpg">
 </p>
 
 <p align="center">
@@ -18,17 +19,18 @@
 
 ━━━━━━━━━━━━━━━━━━━━
 </h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;📡+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;❤️+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝗜𝗦𝗧𝗞𝗛𝗔𝗥+𝗞𝗜𝗡𝗚🔥">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;📡+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;❤️+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+
+˹𝙎𝞪𝞰𝞪𝞽𝞪𝞰𝞲 ✗ 𝙈𝙪𝙨𝙞𝙘+𝗞𝗜𝗡𝗚🔥">
 
 <p align="center">
-  <img src="https://telegra.ph/file/925eade709484516c5fe3.jpg">
+  <img src="https://files.catbox.moe/nr1my9.jpg">
 </p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TEAM-ISTKHAR/ISTKHAR_MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Badnam019/ISTKHAR_MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 </p>
 
@@ -66,7 +68,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/TEAM-ISTKHAR/ISTKHAR_MUSIC && cd ISTKHAR_MUSIC
+   git clone https://github.com/Badnam019/ISTKHAR_MUSIC
    ```
 6. **Install Requirements**
    ```bash
